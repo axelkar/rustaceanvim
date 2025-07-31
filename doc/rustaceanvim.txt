@@ -18,7 +18,7 @@ and integrates with other rust tools.
                                                                   *rustaceanvim*
 
 
-Commands:
+Commands:                                    *:RustAnalyzer* *:RustLsp* *:Rustc*
 
  ':RustAnalyzer start' - Start the LSP client.
  ':RustAnalyzer stop' - Stop the LSP client.
